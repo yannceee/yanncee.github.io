@@ -1,0 +1,36 @@
+h2 {
+  text-transform: uppercase;
+  text-align: center;
+  padding-top: 30px;
+  font-size: 2em;
+}
+
+header a {
+  text-decoration: none;
+  text-align: center;
+  padding: 18px 16px;
+  float: right;
+  color: orangered;
+}
+
+h1 {
+  font-family: cursive, "Dancing script";
+  text-align: center;
+  color: orangered;
+  font-size: 6em;
+  margin-top: 100px;
+}
+#presentation {
+  background-color: yellow;
+  padding: 10px 0px 100px 0;
+}
+#texteintro {
+  padding: 0px 20%;
+}
+p {
+  text-align: left;
+}
+
+#tourisme {
+  text-align: center;
+}
